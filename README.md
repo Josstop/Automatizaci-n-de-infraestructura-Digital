@@ -67,7 +67,7 @@ docker compose restart
 </p>
 
 ### Contenedores Docker
-![Docker](img/docker-ps.png)
+![Docker](img/Captura3.png)
 
 ### Angular Monster App
 ![Angular](img/monster.png)
