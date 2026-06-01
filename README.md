@@ -62,7 +62,9 @@ docker compose restart
 ## Evidencias
 
 ### API Pokémon
-![API Pokémon](img/pantallapokemon.png)
+<p align="center">
+  <img src="img/pantallapokemon.png" width="900">
+</p>
 
 ### Contenedores Docker
 ![Docker](img/docker-ps.png)
