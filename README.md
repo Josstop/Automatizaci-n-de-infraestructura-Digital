@@ -59,11 +59,16 @@ docker compose restart
 ```
 
 
+## Evidencias
 
-## Resultados Obtenidos
+### API Pokémon
+![API Pokémon](img/pantallapokemon.png)
 
--
+### Contenedores Docker
+![Docker](img/docker-ps.png)
 
+### Angular Monster App
+![Angular](img/monster.png)
 ## Conclusión
 
 Docker y Docker Compose permitieron simplificar el despliegue, administración e integración de múltiples servicios dentro de un mismo entorno, facilitando la portabilidad, escalabilidad y mantenimiento de las aplicaciones desarrolladas.
